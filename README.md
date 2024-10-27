@@ -1,2 +1,2 @@
-# drum-kit
-Javascript drumkit
+# counter-program
+First JS program
